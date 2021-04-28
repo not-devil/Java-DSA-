@@ -1,6 +1,6 @@
 # Java-DSA-
 # Data Structures 
-# array 
-# Stack 
-# Queue
-# linkedlist
+ - array 
+ - Stack 
+ - Queue
+ - linkedlist
